@@ -4,7 +4,7 @@
 <pre>
     💼 BSC @ UFMG • RAT • Network security 
     💻 System programming languages • python/c/java 
-    📖 Learning direction • 二进制/ml机器学习/ERF bypass
+    📖 Learning direction • 二进制/ml机器学习/edr bypass
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
